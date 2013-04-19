@@ -1,0 +1,6 @@
+.settings/*
+bin/*
+CVS/*
+src/CVS/*
+.classpath
+.project

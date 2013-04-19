@@ -1,0 +1,45 @@
+Feedback on the 4003-243 Project 2: 
+
+Course: 	CS3 (Object-Oriented Programming)
+
+My name is: 	Jenny Zhen
+
+My account is: 	jxz6853
+
+What did you learn by doing this assignment?
+
+	I learned how to separate my project into more organized formats using the 
+	MVC. I improved my skills in GUI design and programming in Java overall. I 
+	learned that writing a complete application takes more effort than I 
+	initially thought.
+
+
+What was easy about this assignment?
+
+	The model was easier than the GUI. However, this was the second GUI that 
+	I've written in Java.
+
+
+What was harder than you originally thought?
+
+	Writing the GUI and paying attention to or remembering all the tiny details 
+	listed in the project documentations. I had to rewrite a lot of code since 
+	I was working without an internet connection half the time.
+
+
+What can the instructor do to improve this assignment?
+
+	I didn't like the fact that I couldn't add additional buttons. I feel that 
+	a modern day ATM should have an improved design. Also, a clearer description 
+	of how an ATM looks like would help. I've never used one before.
+
+
+What would you have liked to do in this assignment?
+
+	I would've liked to improve the design of the GUI.
+
+
+What other issues would you like to discuss?
+
+	I don't have any other issues that I'd like to discuss.
+
